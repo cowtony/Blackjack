@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Cards/H1.png</file>
+        <file>Cards/H2.png</file>
+        <file>Cards/H3.png</file>
+        <file>Cards/H4.png</file>
+        <file>Cards/H5.png</file>
+        <file>Cards/H6.png</file>
+        <file>Cards/H7.png</file>
+        <file>Cards/H8.png</file>
+        <file>Cards/H9.png</file>
+        <file>Cards/H10.png</file>
+        <file>Cards/H11.png</file>
+        <file>Cards/H12.png</file>
+        <file>Cards/H13.png</file>
+    </qresource>
+</RCC>
